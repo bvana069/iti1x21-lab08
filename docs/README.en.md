@@ -10,8 +10,10 @@ Errors in submitting will affect your grades.
 
 Submit your answers to
 
-* Utils.java
-* Rational.java
+* Queue.java
+* ArrayQueue.java
+* Customer.java
+* Cashier.java
 
 ### Learning objectives
 
