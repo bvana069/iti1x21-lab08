@@ -10,8 +10,10 @@ Les erreurs de soumission vont affecté votre évaluation.
 
 Soumettez les réponses aux
 
-* Utils.java
-* Rational.java
+* Queue.java
+* ArrayQueue.java
+* Customer.java
+* Cashier.java
 
 ### Objectifs d'apprentissage
 
